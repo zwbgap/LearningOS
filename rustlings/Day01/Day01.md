@@ -32,3 +32,52 @@ Rust 的开发效率可以用先抑后扬来形容。
 - 深入学习一本好书或教程
 
 历经九九八十一难，立地成大佬。(哈哈😀，作者真是十分有趣)
+
+
+### **关于Rust的安装和配置**
+#### **Windows下安装**
+因为个人使用windows系统，所以只记录windows下的rust安装，且并非标准。
+
+Windows 上安装 Rust 需要有 C++ 环境，以下为安装的两种方式：
+
+**1. x86_64-pc-windows-msvc（官方推荐）**
+   
+先安装 `Microsoft C++ Build Tools`，勾选安装 C++ 环境即可。安装时可自行修改缓存路径与安装路径。安装完成后，Rust 所需的 msvc 命令行程序需要手动添加到环境变量中，否则安装 Rust 时 rustup-init 会提示未安装 Microsoft C++ Build Tools，其位于：`%Visual Studio 安装位置%\VC\Tools\MSVC\%version%\bin\Hostx64\x64`（请自行替换其中的 %Visual Studio 安装位置%、%version% 字段）下。
+
+如果你不想这么做，可以选择安装 Microsoft C++ Build Tools 新增的“定制”终端 `Developer Command Prompt for %Visual Studio version%` 或 `Developer PowerShell for %Visual Studio version%`，在其中运行 `rustup-init.exe`。
+
+准备好 C++ 环境后开始安装 Rust：
+
+在 RUSTUP-INIT 下载系统相对应的 Rust 安装程序，一路默认即可。
+```
+PS C:\Users\Hehongyuan> rustup-init.exe
+......
+Current installation options:
+
+   default host triple: x86_64-pc-windows-msvc
+     default toolchain: stable (default)
+               profile: default
+  modify PATH variable: yes
+
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+```
+#### **Linux**
+Linux环境为VMware虚拟机建立虚拟环境，其中磁盘映像由`rCore-Tutorial-Book-v3`实验文档所提供,其中Rust以及C语言相关环境已经配置完全。故没有了解其安装方式，后续若有需要会学习。
+#### **更新和卸载**
+检查是否安装成功
+
+```
+$ rustc -V
+rustc 1.72.1 (d5c2e9c34 2023-09-13)
+$ cargo -V
+rustc 1.72.1 (d5c2e9c34 2023-09-13)
+```
+更新
+
+`$ rustup update`
+
+卸载
+
+`$ rustup self uninstall`
