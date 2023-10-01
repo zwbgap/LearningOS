@@ -9,21 +9,26 @@ LearningOS
 │  └─Lab01
 └─rustlings
     ├─Day01
+    │  ├─Code
+    │  └─Documents
     ├─Day02
+    │  ├─Code
+    │  └─Documents
     └─Rust Course
         ├─0 projects
         │  └─guessing_game
         ├─1 Trial test
+        │  ├─Documents
         │  ├─test01
-        │  └─world_hello 
+        │  └─world_hello
         └─2  Basic introduction to Rust
-            ├─2.1 Variable binding and destructuring  
+            ├─2.1 Variable binding and destructuring
             │  ├─Document
             │  │  └─images
             │  └─variables
-            │    
             └─2.2 Basic type
-                └─Documents
+                ├─Documents
+                └─numeric_type
 ```
 ### Day01
 
