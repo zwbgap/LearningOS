@@ -1,0 +1,1 @@
+D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\1\ Trial\ test\world_hello\target\debug\world_hello.exe: D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\1\ Trial\ test\world_hello\src\main.rs

@@ -1,8 +1,5 @@
 # LearningOS
  rCore learning records (2023.10.1)
-<<<<<<< Updated upstream
-
-=======
 ## **Repository structure**
 ```
 LearningOS
@@ -23,11 +20,11 @@ LearningOS
             ├─2.1 Variable binding and destructuring  
             │  ├─Document
             │  │  └─images
-            │  └─variables   
+            │  └─variables
+            │    
             └─2.2 Basic type
                 └─Documents
 ```
->>>>>>> Stashed changes
 ### Day01
 
 #### 计划
@@ -37,3 +34,7 @@ LearningOS
 2.学习清华大学暑期课程Rust程序设计训练。
 
 3.通过编程练习实例。
+
+#### 成果
+1.了解发展历史以及基本语法。
+

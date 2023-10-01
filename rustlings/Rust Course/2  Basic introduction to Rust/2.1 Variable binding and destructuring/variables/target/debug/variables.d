@@ -1,0 +1,1 @@
+D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.1\ Variable\ binding\ and\ destructuring\variables\target\debug\variables.exe: D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.1\ Variable\ binding\ and\ destructuring\variables\src\main.rs
