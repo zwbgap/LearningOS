@@ -15,7 +15,7 @@ Rust 编译器很聪明，它可以根据变量的值和上下文中的使用方
 ```rust
 let guess = "42".parse().expect("Not a number!");
 ```
-忽略 .parse().expect.. 部分，这段代码的目的是将字符串 "42" 进行解析，而编译器在这里无法推导出我们想要的类型：整数？浮点数？字符串？因此编译器会报错：
+忽略 `.parse().expect..`部分，这段代码的目的是将字符串 "42" 进行解析，而编译器在这里无法推导出我们想要的类型：整数？浮点数？字符串？因此编译器会报错：
 ```rust
 $ cargo build
    Compiling no_type_annotations v0.1.0 (file:///projects/no_type_annotations)
