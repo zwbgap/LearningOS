@@ -1,0 +1,8 @@
+D:\26345\Documents\Github\LearningOS\rustlings\Rust Course\2  Basic introduction to Rust\2.2 Basic type\types\target\debug\deps\num_complex-5e82d822d9aefa3f.rmeta: C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\lib.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\cast.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\pow.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\complex_float.rs
+
+D:\26345\Documents\Github\LearningOS\rustlings\Rust Course\2  Basic introduction to Rust\2.2 Basic type\types\target\debug\deps\num_complex-5e82d822d9aefa3f.d: C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\lib.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\cast.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\pow.rs C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\complex_float.rs
+
+C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\lib.rs:
+C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\cast.rs:
+C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\pow.rs:
+C:\Users\26345\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\num-complex-0.4.4\src\complex_float.rs:
