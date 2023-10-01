@@ -2,7 +2,7 @@
  * @Author: ZAM
  * @Date: 2023-10-01 14:11:18
  * @LastEditors: zam
- * @LastEditTime: 2023-10-01 14:29:02
+ * @LastEditTime: 2023-10-01 15:08:53
  * @Description: file content
  * 
  * @FilePath: \LearningOS\rustlings\Rust Course\2  Basic introduction to Rust\2.2 Basic type\types\src\main.rs
@@ -13,6 +13,7 @@ fn main() {
     nan_test();
     number_crunching();
     comprehensive_example();
+    bit_operations();
 }
 
 
@@ -137,3 +138,39 @@ Output:
 1000000000000
 42.00
 */
+
+fn bit_operations() {
+    // 二进制为00000010
+    let a:i32 = 2;
+    // 二进制为00000011
+    let b:i32 = 3;
+
+    println!("(a & b) value is {}", a & b);
+
+    println!("(a | b) value is {}", a | b);
+
+    println!("(a ^ b) value is {}", a ^ b);
+
+    println!("(!b) value is {} ", !b);
+
+    println!("(a << b) value is {}", a << b);
+
+    println!("(a >> b) value is {}", a >> b);
+
+    let mut a = a;
+    // 注意这些计算符除了!之外都可以加上=进行赋值 (因为!=要用来判断不等于)
+    a <<= b;
+    println!("(a << b) value is {}", a);
+}
+
+/*
+Output:
+(a & b) value is 2
+(a | b) value is 3
+(a ^ b) value is 1
+(!b) value is -4
+(a << b) value is 16
+(a >> b) value is 0
+(a << b) value is 16
+*/
+
