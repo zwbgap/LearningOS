@@ -1,6 +1,33 @@
 # LearningOS
  rCore learning records (2023.10.1)
+<<<<<<< Updated upstream
 
+=======
+## **Repository structure**
+```
+LearningOS
+├─.vscode
+├─rCore
+│  ├─Lab00
+│  └─Lab01
+└─rustlings
+    ├─Day01
+    ├─Day02
+    └─Rust Course
+        ├─0 projects
+        │  └─guessing_game
+        ├─1 Trial test
+        │  ├─test01
+        │  └─world_hello 
+        └─2  Basic introduction to Rust
+            ├─2.1 Variable binding and destructuring  
+            │  ├─Document
+            │  │  └─images
+            │  └─variables   
+            └─2.2 Basic type
+                └─Documents
+```
+>>>>>>> Stashed changes
 ### Day01
 
 #### 计划
