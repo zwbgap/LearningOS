@@ -1,0 +1,1 @@
+D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.3\ Ownership\ and\ Borrowing\ownership\target\debug\ownership.exe: D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.3\ Ownership\ and\ Borrowing\ownership\src\main.rs
