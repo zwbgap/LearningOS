@@ -1,0 +1,1 @@
+D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.3\ Ownership\ and\ Borrowing\quoting\target\debug\quoting-and-borrowing.exe: D:\26345\Documents\Github\LearningOS\rustlings\Rust\ Course\2\ \ Basic\ introduction\ to\ Rust\2.3\ Ownership\ and\ Borrowing\quoting\src\main.rs
