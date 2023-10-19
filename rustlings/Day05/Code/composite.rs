@@ -9,6 +9,7 @@
 
 fn main() {
     //println!("Hello, world!");
+    string_test1();
 }
 
 fn string_test1() {
